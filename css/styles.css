@@ -1,0 +1,49 @@
+h1{
+    
+    font-family: impact;
+    text-align: center;
+    font-size: 60px;
+    color: crimson
+    
+}
+h2{
+    font-family: cursive;
+    text-align: left;
+    font-size: 20px;
+}
+a {
+    
+
+   
+    padding: 20px;
+    background-color:#ea7476;
+    border-radius: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #F3E3E3;
+    font-family: fantasy;
+    display: inline-block;
+    text-align: center;
+    margin-top: 0px;
+   transition: width 10s;
+    text-decoration:none;
+    cursor: auto;
+    color: black;
+    margin-left: 0px;
+    font-family: cursive;
+    margin-top: 8%;
+    
+
+}
+a:hover {
+   
+    padding-left: 30px;
+    background-color: #e1f538;
+    
+}
+body{
+  
+    background-image: url(images/gato.jpg);
+    background-repeat: no-repeat;
+    z-index: -100;
+    
